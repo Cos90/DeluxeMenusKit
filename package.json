@@ -1,0 +1,27 @@
+{
+  "name": "deluxemenuskit",
+  "version": "1.0.0",
+  "description": "Electron for DeluxeMenus plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Cos90/DeluxeMenusKit.git"
+  },
+  "keywords": [
+    "DeluxeMenus",
+    "Electron",
+    "BootStrap"
+  ],
+  "author": "Cos90",
+  "license": "MPL-2.0",
+  "bugs": {
+    "url": "https://github.com/Cos90/DeluxeMenusKit/issues"
+  },
+  "homepage": "https://github.com/Cos90/DeluxeMenusKit#readme",
+  "devDependencies": {
+    "electron": "1.7.6"
+  }
+}
